@@ -5,6 +5,6 @@
         <title></title>
     </head>
     <body>
-        <?php echo 1; ?>
+        <?php echo 123; ?>
     </body>
 </html>
